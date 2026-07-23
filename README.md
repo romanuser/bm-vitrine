@@ -73,21 +73,4 @@ O arquivo JSON também fornece os produtos iniciais no primeiro acesso. Depois
 da primeira inclusão, edição ou exclusão no site publicado, o catálogo passa a
 ser lido do armazenamento persistente do Netlify.
 
-## Publicação no Netlify
-
-1. Envie o conteúdo deste projeto para um repositório do GitHub.
-2. No Netlify, selecione `Add new project` e `Import an existing project`.
-3. Escolha o repositório. O comando de build já está configurado.
-4. Em `Project configuration > Environment variables`, cadastre:
-
-```text
-NEXT_PUBLIC_WHATSAPP_NUMBER=5527997840166
-ADMIN_EMAIL=seuemail@empresa.com
-ADMIN_PASSWORD=sua-senha
-SESSION_SECRET=uma-chave-longa-e-aleatoria
-```
-
-5. Execute o deploy.
-
-Não é necessário criar manualmente um banco ou uma área de Blobs. O
 armazenamento é provisionado quando o lojista salva a primeira alteração.
