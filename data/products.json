@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "sku": "HYU-MOT-001",
+    "name": "Motor Parcial Hyundai HB20 1.0",
+    "slug": "motor-parcial-hyundai-hb20-1-0",
+    "manufacturer": "Hyundai",
+    "category": "Motores",
+    "unit": "UN",
+    "shortDescription": "Motor parcial para aplicações Hyundai compatíveis.",
+    "description": "Conjunto de motor parcial destinado a aplicações Hyundai compatíveis. Confirme a aplicação com a equipe comercial antes da aquisição.",
+    "imageUrl": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=1200&q=80",
+    "featured": true,
+    "specifications": [
+      {
+        "label": "Combustível",
+        "value": "Flex"
+      },
+      {
+        "label": "Cilindrada",
+        "value": "1.0 L"
+      },
+      {
+        "label": "Unidade de venda",
+        "value": "UN"
+      }
+    ],
+    "applications": [
+      "Hyundai HB20 1.0",
+      "Hyundai HB20S 1.0"
+    ]
+  },
+  {
+    "id": 2,
+    "sku": "HON-CAB-002",
+    "name": "Cabeçote Honda Civic 2.0",
+    "slug": "cabecote-honda-civic-2-0",
+    "manufacturer": "Honda",
+    "category": "Cabeçotes",
+    "unit": "UN",
+    "shortDescription": "Cabeçote para motores Honda 2.0 compatíveis.",
+    "description": "Cabeçote destinado a aplicações Honda 2.0. A compatibilidade deve ser validada pelo código da peça e pelos dados do veículo.",
+    "imageUrl": "https://images.unsplash.com/photo-1504222490345-c075b6008014?auto=format&fit=crop&w=1200&q=80",
+    "featured": true,
+    "specifications": [
+      {
+        "label": "Aplicação",
+        "value": "Motores Honda 2.0"
+      },
+      {
+        "label": "Material",
+        "value": "Liga de alumínio"
+      },
+      {
+        "label": "Unidade de venda",
+        "value": "UN"
+      }
+    ],
+    "applications": [
+      "Honda Civic 2.0",
+      "Honda CR-V 2.0"
+    ]
+  },
+  {
+    "id": 3,
+    "sku": "TOY-BOM-003",
+    "name": "Bomba de Óleo Toyota Corolla",
+    "slug": "bomba-de-oleo-toyota-corolla",
+    "manufacturer": "Toyota",
+    "category": "Bombas",
+    "unit": "UN",
+    "shortDescription": "Bomba de óleo para aplicações Toyota compatíveis.",
+    "description": "Componente do sistema de lubrificação para aplicações Toyota. Consulte a equipe da B&M para confirmar o código correto.",
+    "imageUrl": "https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?auto=format&fit=crop&w=1200&q=80",
+    "featured": true,
+    "specifications": [
+      {
+        "label": "Sistema",
+        "value": "Lubrificação"
+      },
+      {
+        "label": "Aplicação",
+        "value": "Toyota Corolla"
+      },
+      {
+        "label": "Unidade de venda",
+        "value": "UN"
+      }
+    ],
+    "applications": [
+      "Toyota Corolla 1.8",
+      "Toyota Corolla 2.0"
+    ]
+  },
+  {
+    "id": 4,
+    "sku": "HYU-SEN-004",
+    "name": "Sensor de Rotação Hyundai",
+    "slug": "sensor-de-rotacao-hyundai",
+    "manufacturer": "Hyundai",
+    "category": "Sensores",
+    "unit": "UN",
+    "shortDescription": "Sensor de rotação para aplicações Hyundai.",
+    "description": "Sensor utilizado para monitoramento de rotação do motor. Confirme o código e o modelo do veículo.",
+    "imageUrl": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=1200&q=80",
+    "featured": false,
+    "specifications": [
+      {
+        "label": "Tipo",
+        "value": "Sensor de rotação"
+      },
+      {
+        "label": "Unidade de venda",
+        "value": "UN"
+      }
+    ],
+    "applications": [
+      "Aplicações Hyundai sob consulta"
+    ]
+  },
+  {
+    "id": 5,
+    "sku": "HON-JUN-005",
+    "name": "Jogo de Juntas Honda",
+    "slug": "jogo-de-juntas-honda",
+    "manufacturer": "Honda",
+    "category": "Juntas",
+    "unit": "JG",
+    "shortDescription": "Jogo de juntas para motores Honda.",
+    "description": "Conjunto de juntas para manutenção de motores Honda. Consulte a aplicação correta por modelo e ano.",
+    "imageUrl": "https://images.unsplash.com/photo-1606577924006-27d39b132ae2?auto=format&fit=crop&w=1200&q=80",
+    "featured": false,
+    "specifications": [
+      {
+        "label": "Tipo",
+        "value": "Jogo de juntas"
+      },
+      {
+        "label": "Unidade de venda",
+        "value": "JG"
+      }
+    ],
+    "applications": [
+      "Aplicações Honda sob consulta"
+    ]
+  },
+  {
+    "id": 6,
+    "sku": "TOY-SEN-006",
+    "name": "Sensor de Temperatura Toyota",
+    "slug": "sensor-de-temperatura-toyota",
+    "manufacturer": "Toyota",
+    "category": "Sensores",
+    "unit": "UN",
+    "shortDescription": "Sensor de temperatura para aplicações Toyota.",
+    "description": "Sensor para monitoramento da temperatura do motor. A aplicação deve ser confirmada pelo SKU.",
+    "imageUrl": "https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?auto=format&fit=crop&w=1200&q=80",
+    "featured": false,
+    "specifications": [
+      {
+        "label": "Tipo",
+        "value": "Sensor de temperatura"
+      },
+      {
+        "label": "Unidade de venda",
+        "value": "UN"
+      }
+    ],
+    "applications": [
+      "Aplicações Toyota sob consulta"
+    ]
+  }
+]
