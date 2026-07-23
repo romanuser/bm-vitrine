@@ -1,6 +1,7 @@
 # B&M Distribuidora — Vitrine MVP
 
 MVP funcional da vitrine de produtos da B&M Distribuidora.
+Site desenvolvido por mim, sobre demanda profissional
 
 ## Funcionalidades
 
