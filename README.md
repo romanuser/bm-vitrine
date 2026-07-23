@@ -47,8 +47,7 @@ http://localhost:3000/lojista
 Credenciais iniciais definidas no `.env.local`:
 
 ```text
-E-mail: lojista@bm.com.br
-Senha: bm123456
+
 ```
 
 Troque a senha e o `SESSION_SECRET` antes de publicar.
