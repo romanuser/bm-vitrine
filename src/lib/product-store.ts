@@ -9,7 +9,11 @@ const blobStoreName = "bm-vitrine";
 const blobKey = "products";
 
 function isRunningOnNetlify() {
-  return process.env.NETLIFY === "true";
+  return Boolean(
+    process.env.NETLIFY === "true" ||
+      process.env.NETLIFY_BLOBS_CONTEXT ||
+      process.env.AWS_LAMBDA_FUNCTION_NAME
+  );
 }
 
 async function getLocalProducts(): Promise<Product[]> {
