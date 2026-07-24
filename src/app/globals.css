@@ -275,7 +275,7 @@ textarea {
 }
 
 .button.primary {
-  background: var(--primary);
+  background: var(--secundary);
   color: white;
 }
 
