@@ -291,6 +291,7 @@ textarea {
 .button.large {
   min-height: 52px;
   padding-inline: 24px;
+  background: var(--primary);
 }
 
 .catalog-filters {
