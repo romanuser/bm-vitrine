@@ -14,10 +14,10 @@ export default async function HomePage() {
         <div className="container hero-content">
           <div>
             <span className="eyebrow">Catálogo B2B</span>
-            <h1>Motores e peças automotivas para sua empresa</h1>
+            <h1>A importadora que irá lhe atender com muita satisfação.</h1>
             <p>
-              Consulte produtos Hyundai, Honda e Toyota e fale diretamente com
-              o time comercial da B&M Distribuidora.
+              Consulte produtos eletrônicos em nosso estoque e fale diretamente com
+              o time comercial da B&M Importadora e Distribuidora.
             </p>
             <Link href="/catalogo" className="button primary large">
               Ver catálogo
@@ -54,10 +54,10 @@ export default async function HomePage() {
         <div className="container benefits-grid">
           <article>
             <strong>Catálogo especializado</strong>
-            <p>Produtos organizados por fabricante, categoria e código SKU.</p>
+            <p>Produtos organizados por fabricante, categoria e códigos de fabricante.</p>
           </article>
           <article>
-            <strong>Sem preços públicos</strong>
+            <strong>Consulte os melhores valores do mercado</strong>
             <p>As condições comerciais são tratadas diretamente no atendimento.</p>
           </article>
           <article>

@@ -7,15 +7,15 @@ export function Header() {
         <Link href="/" className="brand">
           <span className="brand-mark">B&M</span>
           <span>
-            <strong>Distribuidora</strong>
-            <small>Peças e motores automotivos</small>
+            <strong>Importadora e Distribuidora.</strong>
+            <small>Produtos de importação</small>
           </span>
         </Link>
 
         <nav className="navigation" aria-label="Navegação principal">
           <Link href="/">Início</Link>
           <Link href="/catalogo">Catálogo</Link>
-          <Link href="/lojista">Lojista</Link>
+          <Link href="/lojista">Área Lojista</Link>
         </nav>
       </div>
     </header>

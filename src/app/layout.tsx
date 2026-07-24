@@ -4,8 +4,8 @@ import { Header } from "@/components/Header";
 import { Footer } from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "B&M Distribuidora",
-  description: "Vitrine de motores e peças automotivas."
+  title: "B&M Importadora e Distribuidora.",
+  description: "Vitrine dos melhores produtos importados."
 };
 
 export default function RootLayout({
