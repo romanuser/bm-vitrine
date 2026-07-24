@@ -178,7 +178,7 @@ export function ProductAdmin({ initialProducts }: ProductAdminProps) {
         <div>
           <span className="eyebrow">Área do lojista</span>
           <h1>Produtos da vitrine</h1>
-          <p>Cadastre, edite ou remova produtos sem alterar o código.</p>
+          <p>Olá Bruno, cadastre, edite ou remova produtos do seu estoque.</p>
         </div>
         <button className="button secondary" onClick={handleLogout}>
           Sair
@@ -214,7 +214,7 @@ export function ProductAdmin({ initialProducts }: ProductAdminProps) {
               onChange={(event) =>
                 updateField("manufacturer", event.target.value)
               }
-              placeholder="Ex.: Toyota"
+
               required
             />
           </label>
@@ -224,7 +224,6 @@ export function ProductAdmin({ initialProducts }: ProductAdminProps) {
             <input
               value={form.category}
               onChange={(event) => updateField("category", event.target.value)}
-              placeholder="Ex.: Motores"
               required
             />
           </label>
@@ -280,7 +279,7 @@ export function ProductAdmin({ initialProducts }: ProductAdminProps) {
               onChange={(event) =>
                 updateField("specificationsText", event.target.value)
               }
-              placeholder={"Uma por linha:\nMaterial: Alumínio\nMotor: 2.0"}
+              placeholder={"Uma por linha:\nMemória Interna:\nTamanho de Tela:\nCâmera traseira"}
             />
           </label>
 
@@ -292,7 +291,7 @@ export function ProductAdmin({ initialProducts }: ProductAdminProps) {
               onChange={(event) =>
                 updateField("applicationsText", event.target.value)
               }
-              placeholder={"Uma por linha:\nToyota Corolla 2.0 2018-2022"}
+              placeholder={"Uma por linha:\nVenda de eletrônicos"}
             />
           </label>
 
