@@ -6,6 +6,7 @@
   --primary: #0c5adb; 
   --secundary: #a22600; 
   --primary-dark: #0845a8;
+  --nirvanna: #080808; 
   --border: #dfe5ee;
   --soft: #eef4ff;
   --radius: 18px;
@@ -84,7 +85,7 @@ textarea {
   height: 46px;
   padding-inline: 9px;
   border-radius: 12px;
-  background: var(--primary);
+  background: var(--nirvanna);
   color: white;
   font-size: 21px;
   font-weight: 800;
