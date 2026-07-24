@@ -292,7 +292,9 @@ textarea {
   min-height: 52px;
   padding-inline: 24px;
   background: var(--primary);
+  color:var(--soft);
 }
+
 
 .catalog-filters {
   display: grid;
